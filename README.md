@@ -17,14 +17,6 @@
 
 ---
 
-<p align="center">
-  <strong>
-    Welcone to Visitor & to get <a href="https://github.com/xtc3/xtc3/blob/master/LICENSE.md">started</a>.
-  </strong>
-</p>
-
----
-
 - [How to use](#how-to-use)
   - [Setup](#setup)
     - [Quick Start](#quick-start)
